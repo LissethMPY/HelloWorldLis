@@ -14,4 +14,4 @@ This is a basic Python project that prints **"Hello World"** to the console. It'
 
 ```bash
 python app.py
-´´´
+
